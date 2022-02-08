@@ -4,7 +4,17 @@
 }
 
 .App footer {
-  font-size: 11px;
+  font-size: 12px;
   margin-top: 10px;
   margin-left: 15px;
+}
+
+.App a {
+  text-decoration: none;
+  color: #C2483D;
+  font-weight: bold;
+}
+
+.App a:hover {
+  color: #D24E42;
 }

@@ -11,7 +11,7 @@ function App() {
         target="_blank"
         rel="noopener noreferrer">
         coded</a> 
-        {""}by Anna Kwiatkowska
+        {""} by Anna Kwiatkowska
       </footer>
       </div>
     </div>
